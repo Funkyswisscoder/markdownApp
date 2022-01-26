@@ -1,0 +1,26 @@
+{
+    "listings": [
+        {
+            "id": 0,
+            "town": "geneva",
+            "placetype": "nightclub",
+            "music": "hip-hop",
+            "place": {
+                "id": "id0",
+                "name": "La Gravière",
+                "location": "Chemin de la Gravière 9, 1227 Genève"
+            }
+        },
+        {
+            "id": 1,
+            "town": "geneva",
+            "placetype": "bar",
+            "music": "Latino",
+            "place": {
+                "id": "id1",
+                "name": "Decibell",
+                "location": "Rue du Conseil-Général 5, 1205 Genève"
+            }
+        }
+    ]
+}
